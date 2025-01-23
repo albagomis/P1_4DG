@@ -1,4 +1,4 @@
 # P1_4DG
 Llibreta variable
 
-[A3 COLOR DOBLE CARA.pdf](https://github.com/user-attachments/files/18518867/A3.COLOR.DOBLE.CARA.pdf)
+![Uploading p1_Cartell_llibreta_Página_1.jpg…]()
